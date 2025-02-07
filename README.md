@@ -2,10 +2,9 @@
 futhark rune generator from dataset of runes and dataset of carved images. to translate text to image style transfer
 sofar:
 #
-![combined_runes_hello_styled](https://github.com/user-attachments/assets/a9f3c49d-cd93-41d9-b78f-7661399aada3)
+![combined_runes_hello_styled](https://github.com/user-attachments/assets/a9f3c49d-cd93-41d9-b78f-7661399aada3)        ....
+Generated from rune_dataset. need to train the model with more complexity.
 #
-Generated from rune_dataset
-
 Outline what we want the FutharkModel to do:
 ## Data Input
   Takes in a batch of rune images (size 3x48x48).
