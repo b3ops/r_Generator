@@ -2,7 +2,7 @@
 futhark rune generator from dataset of runes and dataset of carved images. to translate text to image style transfer
 sofar:
 
-Here's a bullet-point outline of what the FutharkModel is doing:
+Outline what we want the FutharkModel to do:
 ## Data Input
   Takes in a batch of rune images (size 3x48x48).
   Normalizes the pixel values to be between 0 and 1.
