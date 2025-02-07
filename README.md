@@ -3,6 +3,7 @@ futhark rune generator from dataset of runes and dataset of carved images. to tr
 sofar:
 
 Here's a bullet-point outline of what the FutharkModel is doing:
+#
 Data Input
   Takes in a batch of rune images (size 3x48x48)
   Normalizes the pixel values to be between 0 and 1
